@@ -3,18 +3,15 @@
 
 Django-based website with MySQL database for tour recommendations. Login system for users and admin. KNN and Apriori algorithms generate personalized tour lists. Decision Tree Algorithm advises admin on popular tour plans.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
-Instructions on how to install and set up the project locally. Include any dependencies that need to be installed and any additional configuration steps.
+Before running the project, ensure you have Python 3.11 installed on your computer. Install Django, clone the repository, and execute the runserver command to start the project.
 
 ```shell
-$ git clone https://github.com/username/repository.git
-$ cd repository
-$ npm install
+$ git clone https://github.com/sayli2003/Tour-Reccomandation.git
+$ cd Tour-Reccomandation
+$ pip install Django
+$ python manage.py runserver
+'''
+
+## Installation
