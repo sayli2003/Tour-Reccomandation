@@ -1,0 +1,41 @@
+html{
+    background: aliceblue;
+}
+.search{
+    width: 60%;
+    margin-left: 20%;
+}
+.search-bar{
+    margin: 10px 10px;
+    align-items: center;
+
+    background: rgba(21, 110, 110, 0.5);
+    display: flex;
+    border-radius: 60px;
+    padding: 10px 20px;
+    height: 60px;
+}
+
+.search-bar .input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 0px 20px;
+    font-size: 20px;
+}
+
+::placeholder{
+    color: rgb(6, 82, 4);
+}
+
+.search-bar .button{
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background: rgb(255, 255, 255);
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.5);;
+}

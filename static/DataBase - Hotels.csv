@@ -1,0 +1,176 @@
+HID,HotelName,Cost,Rating,City,State,Address
+H1001,Catalina Inn,10000,4.6,Paharganj,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit 
+H1002,Dothan Inn & Suites,6000,3.5,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1003,on the Beach,6500,3.7,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1004,Athens Inn,7000,4,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1005,Park Plaza Motor Inn,7500,4.3,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1006,Inn,2000,2.5,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1007,Abbeville Inn,1946,3,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1008,Fairwinds Inn,7300,4,Jammu,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1009,Riviera Inn,1700,2,Jammu,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1010,Hotel Volga,7500,3.8,Anantnag,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1011,The Orchid Hotel,8500,4.2,Shrinagar,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1012,Mahali Mzuri,9500,4.6,Shrinagar,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1013,Costa Rica,5600,3.5,Shrinagar,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1014,The Opposite House,5000,3.7,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1015,Capella Bangkok,7000,4,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1016,Capella Ubud,8000,4.3,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1017,Kamalame Cay,2500,2.5,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1018,The Oberoi Udaivilas,5400,3,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1019,The Temple House,7000,4,Jaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1020,The Oberoi,1500,2,Jaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1021,Hotel Paracas,3500,3.8,Jaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1022,Taj Holiday,5000,4.2,Jaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1023,Savute Elephant Lodge,10000,4.6,Kota,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1024,The Oberoi Vanyavilas,6000,3.5,Kota,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1025,Mandarin Oriental,6500,3.7,Kota,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1026,La Ra serve Paris,7000,4,Udaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1027,Nobu Ryokan Malibu,7500,4.3,Jodhpur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1028,Soneva Fushi,2000,2.5,Jaisalmer,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1029,Shangri-La the Shard,1946,3,Ranthambore,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1030,Alila Manggis,7300,4,Ahmedabad,Gujarat,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1031,andBeyond Phinda,1700,2,Ahmedabad,Gujarat,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1032,Il Sereno Lago di Como,7500,3.8,Ahmedabad,Gujarat,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1033,Manoir Hovey,8500,4.2,Ahmedabad,Gujarat,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1034,Canaves Oia Epitome,9500,4.6,Gir,Gujarat,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1035,Four Seasons Hotel,5600,3.5,Somnath,Gujarat,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1036,The Peninsula,5000,3.7,Calangute,Goa,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1037,Hotel Il Pellicano,7000,4,Panaji,Goa,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1038,Hotel Fasano Boa Vista,8000,4.3,Anjuna,Goa,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1039,Halekulani Okinawa,2500,2.5,Canacone,Goa,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1040,The Lake House,5400,3,Bardez Taluka,Goa,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1041,Hyatt Regency,7000,4,Bainguinim,Goa,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1042,The Leela Palace,1500,2,Varanasi,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1043,Nayara Gardens,3500,3.8,Varanasi,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1044,Pickering House Inn,5000,4.2,Varanasi,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1045,Rancho Valencia Resort,10000,4.6,Varanasi,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1046,Nihi Sumba,6000,3.5,Agra,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1047,The Oberoi Mumbai,6500,3.7,Agra,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1048,Tierra Atacama Hotel,7000,4,Agra,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1049,Viceroy Riviera Maya,7500,4.3,Agra,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1050,St. Regis,2000,2.5,Amritsar,Punjab,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1051,Farmer's Daughter Hotel,1946,3,Amritsar,Punjab,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1052,Ace Hotel,7300,4,Amritsar,Punjab,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1053,Catalina Inn,1700,2,Amritsar,Punjab,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1054,Dothan Inn & Suites,7500,3.8,Mysore,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1055,on the Beach,8500,4.2,Mysore,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1056,Athens Inn,9500,4.6,Mysore,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1057,Park Plaza Motor Inn,5600,3.5,Mysore,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1058,Inn,5000,3.7,Pune,Maharashtra,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1059,Abbeville Inn,7000,4,Pune,Maharashtra,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1060,Fairwinds Inn,8000,4.3,Ajanta,Maharashtra,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1061,Riviera Inn,2500,2.5,Mumbai,Maharashtra,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1062,Hotel Volga,5400,3,Mahabaleshwar,Maharashtra,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1063,The Orchid Hotel,7000,4,Aurangabad,Maharashtra,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1064,Mahali Mzuri,1500,2,Shimla,Himachal Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1065,Costa Rica,3500,3.8,Shimla,Himachal Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1066,The Opposite House,5000,4.2,Shimla,Himachal Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1067,Capella Bangkok,10000,4.6,Shimla,Himachal Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1068,Capella Ubud,6000,3.5,Haridwar,Uttarakhand,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1069,Kamalame Cay,6500,3.7,Haridwar,Uttarakhand,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1070,The Oberoi Udaivilas,7000,4,Haridwar,Uttarakhand,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1071,The Temple House,7500,4.3, Ooty,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1072,The Oberoi,2000,2.5, Ooty,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1073,Hotel Paracas,1946,3, Ooty,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1074,Taj Holiday,7300,4,Rameshwaram,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1075,Savute Elephant Lodge,1700,2,Madurai,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1076,The Oberoi Vanyavilas,7500,3.8,Kanchipuram,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1077,Mandarin Oriental,8500,4.2,Kodaikanal,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1078,La RA serve Paris,9500,4.6,Mahabalipuram,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1079,Nobu Ryokan Malibu,5600,3.5,Kanyakumari,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1080,Soneva Fushi,5000,3.7,Thanjavur,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1081,Shangri-La the Shard,7000,4,Tirupati,Andhra Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1082,Alila Manggis,8000,4.3,Port Blair,Andaman and Nicobar Islands,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1083,andBeyond Phinda,2500,2.5,Ferrargunj ,Andaman and Nicobar Islands,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1084,Il Sereno Lago di Como,5400,3,Swaraj Dweep Island,Andaman and Nicobar Islands,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1085,Manoir Hovey,7000,4,Andamans Bird Island,Andaman and Nicobar Islands,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1086,Canaves Oia Epitome,1500,2,Munnar,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1087,Four Seasons Hotel,3500,3.8,Munnar,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1088,The Peninsula,5000,4.2,Munnar,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1089,Hotel Il Pellicano,10000,4.6,Munnar,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1090,Hotel Fasano Boa Vista,6000,3.5,Alleppey,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1091,Halekulani Okinawa,6500,3.7,Kumarakom,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1092,The Lake House,7000,4,Kovalam,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1093,Hyatt Regency,7500,4.3,Thekkady,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1094,The Leela Palace,2000,2.5,Sabarimala,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1095,Nayara Gardens,1946,3,Athirapally,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1096,Pickering House Inn,7300,4,Wayanad,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1097,Rancho Valencia Resort,1700,2,Manali,Himachal Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1098,Nihi Sumba,7500,3.8,Dharamshala,Himachal Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1099,The Oberoi Mumbai,8500,4.2,Nainital,Uttarakhand,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1100,Tierra Atacama Hotel,9500,4.6,Rishikesh,Uttarakhand,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1101,Viceroy Riviera Maya,5600,3.5,Mussoorie,Uttarakhand,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1102,St. Regis,5000,3.7,Nainital,Uttarakhand,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1103,Farmer's Daughter Hotel,7000,4,Darjeeling,West Bengal,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1104,Ace Hotel,8000,4.3,Kolkata,West Bengal,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1105,Catalina Inn,2500,2.5,Kolkata,West Bengal,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1106,Dothan Inn & Suites,5400,3,Khulna,West Bengal,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1107,on the Beach,7000,4,Konark,Odisha,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1108,Athens Inn,1500,2,Puri,Odisha,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1109,Park Plaza Motor Inn,3500,3.8,Pondicherry,Pondicherry,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1110,Inn,5000,4.2,Pondicherry,Pondicherry,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1111,Abbeville Inn,10000,4.6,Pondicherry,Pondicherry,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1112,Fairwinds Inn,6000,3.5,Pondicherry,Pondicherry,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1113,Riviera Inn,6500,3.7,Mysore,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1114,Hotel Volga,7000,4,Hampi,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1115,Mahali Mzuri,2000,2.5,Coorg,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1116,Costa Rica,1946,3,Chikmagalur,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1117,The Opposite House,7300,4,Nagarhole,Karnataka,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1118,Capella Bangkok,1700,2,Khajuraho,Madhya Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1119,Capella Ubud,7500,3.8,Bandhavgarh,Madhya Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1120,Kamalame Cay,8500,4.2,Khajuraho,Madhya Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1121,The Oberoi Udaivilas,9500,4.6,Kaziranga,Assam,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1122,The Temple House,5600,3.5,Barpeta,Assam,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1123,The Oberoi,5000,3.7,Guwahati,Assam,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1124,Hotel Paracas,7000,4,Bokakhat,Assam,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1125,Taj Holiday,8000,4.3,Jorhat,Assam,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1126,Savute Elephant Lodge,2500,2.5,Shillong,Meghalaya,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1127,The Oberoi Vanyavilas,5400,3,Cherrapunji,Meghalaya,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1128,Mandarin Oriental,7000,4,Shillong,Meghalaya,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1129,La RA serve Paris,1500,2,Shillong,Meghalaya,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1130,Nobu Ryokan Malibu,3500,3.8,Mawsmai,Meghalaya,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1131,Soneva Fushi,5000,4.2,Paharganj,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1132,Shangri-La the Shard,10000,4.6,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1133,Alila Manggis,6000,3.5,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1134,andBeyond Phinda,6500,3.7,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1135,Il Sereno Lago di Como,7000,4,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1136,Manoir Hovey,7500,4.3,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1137,Canaves Oia Epitome,2000,2.5,New Delhi,New Delhi,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1138,Four Seasons Hotel,1946,3,Jammu,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1139,The Peninsula,7300,4,Jammu,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1140,Hotel Il Pellicano,1700,2,Anantnag,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1141,Hotel Fasano Boa Vista,7500,3.8,Shrinagar,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1142,Halekulani Okinawa,8500,4.2,Shrinagar,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1143,The Lake House,9500,4.6,Shrinagar,Jammu and Kashmir,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1144,Hyatt Regency,5600,3.5,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1145,The Leela Palace,5000,3.7,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1146,Nayara Gardens,7000,4,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1147,Pickering House Inn,8000,4.3,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1148,Rancho Valencia Resort,2500,2.5,Hyderabad,Telangana,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1149,Nihi Sumba,5400,3,Jaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1150,The Oberoi Mumbai,7000,4,Jaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1151,Tierra Atacama Hotel,1500,2,Jaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1152,Viceroy Riviera Maya,3500,3.8,Jaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1153,St. Regis,5000,4.2,Kota,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1154,Farmer's Daughter Hotel,10000,4.6,Kota,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1155,Ace Hotel,6000,3.5,Kota,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1156,Catalina Inn,6500,3.7,Udaipur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1157,Dothan Inn & Suites,7000,4,Jodhpur,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1158,on the Beach,7500,4.3,Jaisalmer,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1159,Athens Inn,2000,2.5,Ranthambore,Rajasthan,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1160,Park Plaza Motor Inn,1946,3,Mahabalipuram,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1161,Inn,7300,4,Kanyakumari,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1162,Abbeville Inn,1700,2,Thanjavur,Tamil Nadu,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1163,Fairwinds Inn,7500,3.8,Tirupati,Andhra Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1164,Riviera Inn,8500,4.2,Port Blair,Andaman and Nicobar Islands,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1165,Hotel Volga,9500,4.6,Ferrargunj ,Andaman and Nicobar Islands,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1166,The Orchid Hotel,5600,3.5,Swaraj Dweep Island,Andaman and Nicobar Islands,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1167,Mahali Mzuri,5000,3.7,Andamans Bird Island,Andaman and Nicobar Islands,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1168,Costa Rica,7000,4,Munnar,Kerala,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1169,The Opposite House,8000,4.3,Varanasi,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1170,Capella Bangkok,2500,2.5,Varanasi,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1171,Capella Ubud,5400,3,Varanasi,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1172,Kamalame Cay,7000,4,Varanasi,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1173,The Oberoi Udaivilas,1500,2,Agra,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1174,The Temple House,3500,3.8,Agra,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit
+H1175,The Oberoi,5000,4.2,Agra,Uttar Pradesh,Lorem ipsum dolor sit amet  consectetur adipiscing elit

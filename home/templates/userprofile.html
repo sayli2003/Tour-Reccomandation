@@ -1,0 +1,64 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Dashboard</title>
+    <link rel="stylesheet" href="/static\css\userprofile.css?{% now "U" %}">
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="grid-container">
+        
+        <div class="grid-item top green">
+            <div class="img green"></div>
+            <p class="gray"> Name</p>
+            <p class="big">{{user.CName}}</p>
+            <hr>
+        </div>
+        <div class="grid-item top yellow">
+            <div class="img yellow"></div>
+            <p class="gray"> Phone Number</p>
+            <p class="big"> {{  user.PhNo }} </p>
+            <hr>
+        </div>
+        <div class="grid-item top blue">
+            <div class="img blue"></div>
+            <p class="gray">Total Searches</p>
+            <p class="big"> {{ searchcount }}</p>
+            <hr>
+        </div>
+
+        <div class="grid-item bottom blue">
+            <div class="blu">
+                <p class="big">Search History</p>
+            </div>
+            {% if search_hist%}
+            <table class="table">
+                <tr>
+                  <th>ID</th>
+                  <th>Package</th>
+                  <th>Number of Passenger</th>
+                  <th>Bought</th>
+                </tr>
+                <tr><hr></tr>
+                {% for i in search_hist%}
+                <tr>
+                  <td>{{i.SH_ID}}</td>
+                  <td>{{ i.PID}} &nbsp; {{ i.From_City }} to {{ i.Dest }}</td>
+                  <td>{{ i.NumPsg}}</td>
+                  <td>{{i.Bought}}</td>
+                  <td>
+                </tr>
+                {% endfor %}
+              </table>
+            {% else %} No Searches Found...
+            {% endif %}
+        </div>
+        <div class="footer">
+        </div>
+    </div>
+</body>
+</html>

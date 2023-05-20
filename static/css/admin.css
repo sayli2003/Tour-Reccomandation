@@ -1,0 +1,24 @@
+.button {
+    margin-top: 0;
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+    background-color: #0b0e59bf;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 30px;  
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+
+  body{
+    background-image: url('../images/2.jpg');
+	display: flex;
+    align-items: center;
+    place-content: center;
+    gap: 20px;
+	
+}

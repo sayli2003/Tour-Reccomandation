@@ -1,0 +1,83 @@
+{% load static %}
+<link rel="stylesheet" href="/static/css/nav.css?{% now "U" %}">
+<link rel="stylesheet" href="/static/css/home.css?{% now "U" %}">
+<link rel="stylesheet" href="/static/css/packageDet.css?{% now "U" %}">
+<link rel="stylesheet" href="/static/css/destsearch.css?{% now "U" %}">
+{% include 'navbar.html' %}
+
+<div class="packD">
+    <div class="wrapper">
+      <div class="head">
+        <div class="pid"> {{packages.PID}}:  {{packages.From_City}} ------------- {{packages.Dest}}</div>
+      </div>
+      <div class="thispackdet">Season: {{packages.Season}} Days: {{packages.NoOfDays}} Rating: {{packages.Rating}}</div>
+      <div class="cost">
+        <form>
+          <input type="Number" id="PassNo" name="PassNo" placeholder="Num Seats" required>
+          <button type="submit" id="buy" name="buy">Book</button>
+        </form>
+      </div>
+
+      
+      <div class="dest">
+        {% for i in Transport %}
+        <h3>&nbsp;{{i.Type}} &nbsp;&nbsp;|&nbsp;&nbsp; Distance: {{i.Distance}} &nbsp;&nbsp;|&nbsp;&nbsp;  Cost: {{i.Cost}}</h3>
+        {% endfor %}        
+      </div> 
+      <div class="tit">
+        <h2> Places to Visit </h2></div> 
+
+    <div class="container">
+      <div class="dests">
+        {% if destination %}
+        {% for i in destination %}
+        <div class="dest">
+            <h2>{{i.Name}}</h2>
+            <br><h4>{{i.City}},{{i.State}}<br><br><hr></h4>
+            <h5>{{i.Description}}</h5>
+            <div class="imgs">
+            <img src="/static/images/{{i.Type}}.jpeg">
+            </div>
+            <h6>Type: {{i.Type}} </h6>
+        </div>
+        {% endfor %}
+        {% else %} No Packages Found...
+        {% endif %}
+      </div>
+    </div>
+    
+  </div> 
+</div>
+<div class="hotels title">
+  <h2>Hotels</h2>
+</div>
+<br>
+<div class="list">
+  {% if Hotel %}
+  {% for i in Hotel %}
+  <div class="stuff">
+    <h2>{{i.HotelName}}<br><br></h2>
+    <h4>{{i.City}}, {{i.State}}</h4>
+    <h5>Address: {{i.Address}}</h5>
+    <h3 class="Rating">Rating: {{i.Rating}}</h3>
+    <h3 class="Cost">Cost: {{i.Cost}}</h3>
+</div>
+  {% endfor %}
+  {% else %} Hotels not Found...
+  {% endif %}
+</div>
+<hr>
+
+{% comment %} data = { 
+  "hotels": [
+        {"HotelName": "Catalina Inn", "cost": 10000,
+         "Rating": 4.6, "City": "Paharganj", "State": "New Delhi", "Address": "Lorem ipsum dolor sit amet  consectetur adipiscing elit "}
+    ],       
+  "transport" : [
+    {"Type": "Flight", "Distance": 1173, "Cost": 4200}
+  ],
+  "destination":[
+        {"Name" : "Akshardham Temple Delhi", "City":"Paharganj", "State" : "New Delhi", "Description" : "An epitome of Indian culture  spirituality  and architecture  Akshardham Temple is a famous Hindu temple and a spiritual-cultural complex. Also known as Swaminarayan Akshardham  it is dedicated to Lord Swaminarayan. Akshardham has made its way to the Guinness Book of World Records as the Worlds Largest Comprehensive Hindu Temple.The Akshardham Temple is known for its stunning architecture. It has eight ostentatiously carved mandapams while timeless Hindu teachings and flamboyant devotional traditions find their place on the temples walls. The centrepiece  i.e. Lord Swaminarayans Murti along with that of 20 000 deities  significant personalities in Indian history and sages showcase the essence of Indian architecture  traditions and timeless spiritual thoughts.", "Type":"Pilgrimage"},
+        {"Name" : "India Gate", "City":"New Delhi", "State" : "New Delhi", "Description" : "The All India War Memorial  popularly known as the India Gate  is located along the Rajpath in New Delhi. The imposing structure of India Gate is an awe-inspiring sight and is often compared to the Arch de Triomphe in France  the Gateway of India in Mumbai and the Arch of Constantine in Rome. This 42-meter tall historical structure was designed by Sir Edwin Lutyens and is one of the largest war memorials in the country. India Gate is also famous for hosting the Republic Day Parade every year.", "Type":"Monument"}
+    ]
+  } {% endcomment %}

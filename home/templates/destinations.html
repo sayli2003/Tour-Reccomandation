@@ -1,0 +1,40 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/home.css">
+    <link rel="stylesheet" href="/static/css/destinations.css">
+    <title>Destinations</title>
+</head>
+<body>
+    {% include 'navbar.html' %}
+
+    <div class="search">       
+        <form action="" method  = "post" class="search-bar">
+            {% csrf_token %}
+            <input type="text" placeholder="State" name="state" class="input">
+            <input id="x" list="dest_type" class="input" name="dest_type" id="dest_type" placeholder="destination type">
+            <datalist id="dest_type">
+                <option value="Pilgrimage">
+                <option value="Monument">
+                <option value="Museum">
+                <option value="Historical & Heritage">
+                <option value="Scenic">
+                <option value="Shopping">
+                <option value="Wildlife">
+                <option value="Beach">
+                <option value="Memorial">
+                <option value="Hill Station">
+                <option value="Waterfall">
+                <option value="Park">
+        </datalist>    
+            <input type= "submit" value="GO" class="button">
+        </form>
+    </div>    
+    <div class="searchresults">
+        {% include 'destsearch.html' %}
+    </div>
+</body>
+</html>

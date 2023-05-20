@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">         
+    <link rel="stylesheet" href="/static/css/home.css">
+    <link rel="stylesheet" href="/static/css/addpack.css?{% now "U" %}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AddNewPackage</title>
+</head>
+<body>  
+  <div class="register">
+    <h1 class="h1">&nbsp;{{message}}</h1>
+    <form action="" method="post">
+      {% csrf_token %}
+    <button type="submit" class="bt">Add Package</button>
+    <button type="submit" class="bt"><a href="/admin">BACK</a></button>
+    </form>
+  </div>
+
+  <script src="../static/js/addpack.js"></script>
+</body>
+</html>

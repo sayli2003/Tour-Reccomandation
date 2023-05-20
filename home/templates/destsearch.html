@@ -1,0 +1,25 @@
+{% comment %} data={"destination":[
+{"Name" : "Akshardham Temple Delhi", "City":"Paharganj", "State" : "New Delhi", "Description" : "An epitome of Indian culture  spirituality  and architecture  Akshardham Temple is a famous Hindu temple and a spiritual-cultural complex. Also known as Swaminarayan Akshardham  it is dedicated to Lord Swaminarayan. Akshardham has made its way to the Guinness Book of World Records as the Worlds Largest Comprehensive Hindu Temple.The Akshardham Temple is known for its stunning architecture. It has eight ostentatiously carved mandapams while timeless Hindu teachings and flamboyant devotional traditions find their place on the temples walls. The centrepiece  i.e. Lord Swaminarayans Murti along with that of 20 000 deities  significant personalities in Indian history and sages showcase the essence of Indian architecture  traditions and timeless spiritual thoughts.", Type="Pilgrimage"},
+{"Name" : "Akshardham Temple Delhi", "City":"Paharganj", "State" : "New Delhi", "Description" : "An epitome of Indian culture  spirituality  and architecture  Akshardham Temple is a famous Hindu temple and a spiritual-cultural complex. Also known as Swaminarayan Akshardham  it is dedicated to Lord Swaminarayan. Akshardham has made its way to the Guinness Book of World Records as the Worlds Largest Comprehensive Hindu Temple.The Akshardham Temple is known for its stunning architecture. It has eight ostentatiously carved mandapams while timeless Hindu teachings and flamboyant devotional traditions find their place on the temples walls. The centrepiece  i.e. Lord Swaminarayans Murti along with that of 20 000 deities  significant personalities in Indian history and sages showcase the essence of Indian architecture  traditions and timeless spiritual thoughts.", Type="Monument"}
+]} {% endcomment %}
+
+<link rel="stylesheet" href="\static\css\destsearch.css?{% now "U" %}">
+<div class="container">
+    <div class="dests">
+        {% if destination %}
+        {% for i in destination %}
+        <div class="dest">
+            <h2>{{i.Name}}</h2>
+            <br><h4>{{i.City}},{{i.State}}<br><br><hr></h4>
+            <h5>{{i.Description}}</h5>
+            <div class="imgs">
+            <img src="\static\images\{{i.Type}}.jpeg">
+            </div>
+            <h6>Type: {{i.Type}} </h6>
+        </div>
+        {% endfor %}
+        {% else %} No Packages Found...
+        {% endif %}
+</div>
+</div>
+

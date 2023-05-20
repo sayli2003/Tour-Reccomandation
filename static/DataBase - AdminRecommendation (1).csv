@@ -1,0 +1,108 @@
+PID,From_City,From_State,Dest,NoOfDays,Season,Budget_Type,Num_Sold
+1001,Pune,Maharashtra,New Delhi,5,Winter,1,45
+1002,Pune,Maharashtra,New Delhi,7,Winter,3,54
+1003,New Delhi,New Delhi,Jammu and Kashmir,5,Summer,1,32
+1004,New Delhi,New Delhi,Jammu and Kashmir,8,Summer,3,26
+1005,New Delhi,New Delhi,Jammu and Kashmir,8,Summer,5,42
+1006,Bangalore,Karnataka,Jammu and Kashmir,6,Winter,1,54
+1007,Bangalore,Karnataka,Jammu and Kashmir,8,Winter,3,29
+1008,Amritsar,Punjab,Jammu and Kashmir ,5,Summer,1,25
+1009,Amritsar,Punjab,Jammu and Kashmir ,6,Summer,2,78
+1010,Amritsar,Punjab,Jammu and Kashmir ,7,Summer,3,24
+1011,Pune,Maharashtra,Goa,5,Winter,1,56
+1012,Pune,Maharashtra,Goa,6,Winter,2,45
+1013,Pune,Maharashtra,Goa,7,Winter,3,35
+1014,Ahmedabad,Gujarat,Goa,5,Summer,1,45
+1015,Ahmedabad,Gujarat,Goa,7,Winter,2,45
+1016,Panaji,Goa,Telangana,4,Monsoon,1,65
+1017,Panaji,Goa,Telangana,6,Winter,2,45
+1018,Mumbai,Maharashtra,Telangana,5,ALL,1,32
+1019,Mumbai,Maharashtra,Telangana,6,ALL,5,54
+1020,Amritsar,Punjab,Telangana,6,Winter,1,25
+1021,Amritsar,Punjab,Telangana,7,Summer,4,42
+1022,Pune,Maharashtra,Telangana,6,Monsoon,1,41
+1023,Pune,Maharashtra,Telangana,5,Monsoon,3,49
+1024,Pune,Maharashtra,Telangana,4,Monsoon,4,65
+1025,Pune,Maharashtra,Rajasthan,3,Winter,1,32
+1026,Pune,Maharashtra,Rajasthan,4,Winter,2,45
+1027,Mumbai,Maharashtra,Rajasthan,3,Winter,1,54
+1028,Mumbai,Maharashtra,Rajasthan,4,Summer,3,32
+1029,Mumbai,Maharashtra,Rajasthan,5,Summer,4,26
+1030,Ahmedabad,Gujarat,Rajasthan,4,Winter,1,42
+1031,Ahmedabad,Gujarat,Rajasthan,5,Summer,2,54
+1032,Ahmedabad,Gujarat,Rajasthan,3,Winter,3,29
+1033,Dabolim,Goa,Gujarat,5,Winter,1,25
+1034,Madgaon,Goa,Gujarat,6,Summer,2,78
+1035,Panaji,Goa,Gujarat,4,Winter,3,24
+1036,Pune,Maharashtra,Gujarat,3,Summer,1,56
+1037,Pune,Maharashtra,Gujarat,4,Winter,3,45
+1038,Pune,Maharashtra,Gujarat,4,Winter,5,35
+1039,Mumbai,Maharashtra,Gujarat,6,Winter,1,45
+1040,Mumbai,Maharashtra,Gujarat,5,Winter,3,45
+1041,Mumbai,Maharashtra,Gujarat,3,Winter,4,65
+1042,Kozhikode,Kerala,Gujarat,5,Summer,1,45
+1043,Kochi,Kerala,Gujarat,4,Winter,3,32
+1044,Bangalore,Karnataka,Gujarat,5,Winter,1,54
+1045,Bangalore,Karnataka,Gujarat,4,Winter,2,25
+1046,Hyderabad,Telengana,Gujarat,5,Summer,1,42
+1047,Hyderabad,Telengana,Gujarat,6,Summer,1,41
+1048,New Delhi,New Delhi,Uttar Pradesh,3,Winter,5,49
+1049,New Delhi,New Delhi,Uttar Pradesh,4,Winter,5,65
+1050,New Delhi,New Delhi,Uttar Pradesh,4,Winter,5,32
+1051,Jaipur,Rajasthan,Uttar Pradesh,3,Winter,1,45
+1052,Jaipur,Rajasthan,Uttar Pradesh,4,Summer,2,54
+1053,Jaipur,Rajasthan,Uttar Pradesh,4,Summer,3,32
+1054,Mumbai,Maharashtra,Punjab,5,Winter,1,26
+1055,Mumbai,Maharashtra,Punjab,4,Monsoon,3,42
+1056,Varanasi,Uttar Pradesh,Punjab,3,Winter,1,54
+1057,Lucknow,Uttar Pradesh,Punjab,4,Winter,2,29
+1058,Noida,Uttar Pradesh,Punjab,4,Winter,3,25
+1059,Hyderabad,Telengana,Karnataka,3,ALL,1,78
+1060,Hyderabad,Telengana,Karnataka,3,ALL,2,24
+1061,Hyderabad,Telengana,Karnataka,2,ALL,3,56
+1062,Pune,Maharashtra,Karnataka,4,ALL,1,45
+1063,Pune,Maharashtra,Karnataka,5,ALL,3,35
+1064,Pune,Maharashtra,Karnataka,5,ALL,4,45
+1065,Varanasi,Uttar Pradesh,Karnataka,5,Winter,1,45
+1066,Varanasi,Uttar Pradesh,Karnataka,5,Winter,2,65
+1067,Jaipur,Rajasthan,Maharashtra,3,Monsoon,1,45
+1068,Jaipur,Rajasthan,Maharashtra,4,Monsoon,4,32
+1069,New Delhi,New Delhi,Maharashtra,5,Monsoon,1,54
+1070,New Delhi,New Delhi,Maharashtra,4,Monsoon,2,45
+1071,Shrinagar,Jammu and Kashmir,New Delhi,3,Winter,1,54
+1072,Jammu,Jammu and Kashmir,New Delhi,4,Winter,3,32
+1073,Jammu,Jammu and Kashmir,New Delhi,4,Winter,4,26
+1074,Jaipur,Rajasthan,New Delhi,4,Summer,1,42
+1075,Jaipur,Rajasthan,New Delhi,5,Winter,2,54
+1076,Jaipur,Rajasthan,New Delhi,6,Winter,2,29
+1077,Kozhikode,Kerala,Assam,6,Winter,1,25
+1078,Mumbai,Maharashtra,Assam,7,Winter,1,78
+1079,Kochi,Kerala,Odisha,8,Winter,1,24
+1080,Mumbai,Maharashtra,Odisha,6,Monsoon,3,56
+1081,Varanasi,Uttar Pradesh,Odisha,6,Winter,2,45
+1082,Hyderabad,Telengana,Odisha,8,Summer,3,35
+1083,Bangalore,Karnataka,Himachal Pradesh,10,Summer,1,45
+1084,Pune,Maharashtra,Himachal Pradesh,10,Summer,1,45
+1085,Pune,Maharashtra,Himachal Pradesh,10,Summer,2,65
+1086,Pune,Maharashtra,Uttarakhand,7,Summer,1,45
+1087,Kozhikode,Kerala,Himachal Pradesh,7,Summer,1,32
+1088,Mumbai,Maharashtra,West Bengal,9,Winter,1,54
+1089,Jaipur,Rajasthan,West Bengal,6,Winter,1,25
+1090,Mumbai,Maharashtra,Ladakh,8,Summer,2,42
+1091,Amritsar,Punjab,Ladakh,4,Winter,1,41
+1092,Solapur,Maharashtra,Kerala,5,Winter,3,49
+1093,Pune,Maharashtra,Kerala,5,Winter,1,65
+1094,Pune,Maharashtra,Kerala,7,Winter,3,32
+1095,Varanasi,Uttar Pradesh,Kerala,5,Summer,1,45
+1096,Solapur,Maharashtra,Tamil Nadu,4,Winter,5,54
+1097,Hyderabad,Telengana,Tamil Nadu,5,Summer,1,32
+1098,Hyderabad,Telengana,Tamil Nadu,5,Winter,3,26
+1099,Indore,Madhya Pradesh,Tamilnadu,4,Summer,1,42
+1100,Kozhikode,Kerala,Uttarakhand,5,Summer,1,54
+1101,Bangalore,Karnataka,Uttarakhand,5,Winter,1,29
+1102,Hyderabad,Telengana,Uttarakhand,5,Winter,2,25
+1103,Jaipur,Rajasthan,Andhra Pradesh,6,Summer,2,78
+1104,Jaipur,Rajasthan,Andhra Pradesh,5,Summer,2,24
+1105,Mumbai,Maharashtra,Andaman and Nicobar Islands,6,Winter,5,56
+1106,Mumbai,Maharashtra,Pondicherry,4,Winter,1,45
+1107,Indore,Madhya Pradesh,Meghalaya,8,Winter,3,35

@@ -1,0 +1,34 @@
+<link rel="stylesheet" href="static\css\searchpackages.css?{% now "U" %}">
+<div class="container">
+    <div class="packages">
+        {% if packages%}
+        {% for i in packages%}
+        <div class="package">
+            <h2>{{i.PID}} | {{i.From_City}} --- {{i.Dest}}
+                <br> --------------------------------------------------
+            </h2>
+
+            <div class="bars-box">
+                <h3>Rating</h3>
+                <span>{{ i.Rating }}</span>
+                <div class="light-bar"></div>
+                <div class="percent-bar html-bar"></div>
+            </div>            
+                <p>
+                    <span> Days: {{i.NoOfDays}}</span> <span>Season: {{i.Season}} </span>
+                    <span>Budget Type: {{i.Budget_Type}} </span>
+                </p>
+                <a href="{% url 'packageDetails' i.PID%}" class="button">More Details</a>
+        </div>
+        {% endfor %}
+        {% else %} No Packages Found...
+        {% endif %}
+</div>
+</div>
+
+{% comment %} data = {
+    "packages" : [
+    {"PID": 1001, 'From_City': 'Pune', 'From_State' : 'Maharashtra' , 'Dest' : 'New Delhi', 'NoOfDays': 5, 'Season': 'Winter', 'Rating': 4.1, 'Budget_Type' : 1},
+    {"PID": 1004, 'From_City': 'New Delhi', 'From_State' : 'New Delhi' , 'Dest' : 'Jammu and Kashmir', 'NoOfDays': 8, 'Season': 'Summer', 'Rating': 4.5, 'Budget_Type' : 3}
+    ]
+} {% endcomment %}

@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/css/home.css?{% now "U" %} ">
+    <link rel="stylesheet" href="static/css/Packages.css?{% now "U" %}">
+    <title>Packages</title>
+</head>
+<body>
+    {% include 'navbar.html' %}
+
+    <div class="search">
+       
+        <form action="" method  = "post" class="search-bar">
+            {% csrf_token %}
+            <input type="text" placeholder="From" name="from" class="input">
+            <input type="text" placeholder="To" name="to" class="input">        
+            <input type= "submit" value="GO" class="button">
+        </form>
+    </div>    
+    <div class="searchresults">
+        {% include 'searchpackages.html' %}
+    </div>
+    {% include 'sugg1.html' %}
+</body>
+</html>

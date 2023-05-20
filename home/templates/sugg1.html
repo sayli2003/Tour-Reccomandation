@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="static\css\sugg1.css?{% now "U" %}">
+
+<div class="res">
+{% for i in apriori%}
+  <div class="sugg">
+    <div class="title">{{i.PID}} | <br> {{i.From_City}} &nbsp;-&nbsp;{{i.Dest}} </div><hr>
+    <div class="type">Season: {{i.Season}} &nbsp; Days: {{i.NoofDays}}</div>
+    <div class="Rating">Rating: {{i.Rating}}</div>
+    <a href="{% url 'packageDetails' i.PID%}" class="button">More Details</a>
+  </div>
+{% endfor %}
+</div>
+<div class="res">
+    {% for i in knn%}
+      <div class="sugg">
+        <div class="title">{{i.PID}} | <br> {{i.From_City}} &nbsp;-&nbsp;{{i.Dest}} </div><hr>
+        <div class="type">Season: {{i.Season}} &nbsp; Days: {{i.NoofDays}}</div>
+        <div class="Rating">Rating: {{i.Rating}}</div>
+        <a href="{% url 'packageDetails' i.PID%}" class="button">More Details</a>
+      </div>
+    {% endfor %}
+</div>

@@ -1,0 +1,67 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SignUp/LogIn</title>
+  <meta name="author" content="Bharat Agarwal">
+  <meta name="description" content="A login and SignUp page whith smooth animations">
+
+  <link rel="stylesheet" href="/static/css/home.css?{% now "U" %}">
+  <link rel="stylesheet" href="/static/css/signuplogin.css?{% now "U" %}">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="/static/js/signuplogin.js"></script>
+</head>
+
+<body>
+  <div id="box">
+    <div id="main">
+
+    </div>
+    <div id="loginform">
+      <h1>Login</h1>
+      <form action="" method="post">
+        {% csrf_token %}
+        {{ form1.as_p }}
+        <label for ='name'><b>User Name :  </b></label>
+                <input type="text" placeholder="Enter Name" name="name" float="right"  required><br>  
+                <label for='password'><b>Password : </b></label>
+                <input type="password" placeholder="Enter Password" name="password" required><br> 
+      <input class = "submit" name="signin" type="submit">Login</input>
+      </form>
+      
+      <h6>* password is your phone number</h6>
+    </div>
+    <div id="signupform">
+      <br>
+      <h1>SIGN UP</h1>
+      <form action="" method="post">
+        {% csrf_token %}
+        <input type="text" name="name" placeholder="Name Surname"><br />
+      <input type="text" name="addr" placeholder="Address"><br />
+      <input type="text" name="phno" placeholder="Phone number"><br />
+      <input type="email" name="email" placeholder="Email"><br />
+      <button type="submit" name="signup">SIGN UP</button>
+      </form>
+      
+      <h6>* password will be your phone number</h6>
+    </div>
+
+    <div id="login_msg">
+      Have an account?
+    </div>
+
+    <div id="signup_msg">
+      Create an account?
+    </div>
+    <button type="button" name="button" id="login_btn">LOGIN</button>
+    <button type="button" name="button" id="signup_btn">SIGN UP</button>
+  </div>
+
+</body>
+
+</html>
