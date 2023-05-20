@@ -1,5 +1,4 @@
-# Tour-Reccomandation
-
+# Tour-Recommendation
 
 Django-based website with MySQL database for tour recommendations. Login system for users and admin. KNN and Apriori algorithms generate personalized tour lists. Decision Tree Algorithm advises admin on popular tour plans.
 
@@ -15,10 +14,10 @@ Django-based website with MySQL database for tour recommendations. Login system 
 
 ## Description
 
-- This webpage is for travel enthusiaasts who are always looking a new adventure.
-- Recommands the next trou you could take.
-- Descriptions for hotels and transports and popular tourist places int he world.
-- We used the following technologies
+- This webpage is for travel enthusiasts who are always looking for a new adventure.
+- Recommends the next tour you could take.
+- Descriptions for hotels and transports and popular tourist places in the world.
+- We used the following technologies:
     - Front End
         - HTML
         - CSS
@@ -27,7 +26,7 @@ Django-based website with MySQL database for tour recommendations. Login system 
         - MySQL
         - Django(middle-ware) 
     - Languages
-        - Pytohn(version 3.11)
+        - Python(version 3.11)
 
 
 ## Architecture
@@ -37,16 +36,16 @@ Django-based website with MySQL database for tour recommendations. Login system 
 ## How to run?
 ### Deploying the software :
 1. Clone this repository
-2. Install Django on you system using 'pip install django'
-3. Navigate to the repository
-4. run the 'python manage.py runserver' command on the terminal
+2. Install Django on your system using 'pip install django'.
+3. Navigate to the repository.
+4. Run the 'python manage.py runserver' command on the terminal.
 
 ### Next Steps: 
-5. A Link will be generated. Open the link in a browser.
-6. You will come accros the login and Sign up page
-7. After you login you will be redirected to the Dashboard.
-8. On the Navbar, you will find important links to - Package, Destinaitions, User Profile.
-9. You can Use the Search Bar to Look fr new Pacakges 
+5. A link will be generated. Open the link in a browser.
+6. You will come across the login and Sign up page.
+7. After you log in, you will be redirected to the Dashboard.
+8. On the Navbar, you will find important links to - Package, Destinations, User Profile.
+9. You can use the Search Bar to look for new Packages.
 
     
  ## Screenshots
@@ -57,8 +56,8 @@ Django-based website with MySQL database for tour recommendations. Login system 
 ### Dashboard
 <img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/b13469da-4067-4510-bf3c-737a16ca727a" width="75%" height="50%">
 
-### Recomendations
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/158b7e84-1e48-4425-84aa-f2d1564a6a43" width="75%" height="50%">
+### Recommendations
+<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/158b7e84-1e48-4425-84aa-f2d1564a6a43" width="75" height="50%">
 
 ### Searching Packages
 <img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/b04b5508-616e-4e7b-b9dc-74b7ab572653" width="75%" height="50%">
