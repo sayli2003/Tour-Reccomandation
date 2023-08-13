@@ -57,7 +57,7 @@ Django-based website with MySQL database for tour recommendations. Login system 
 <img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/b13469da-4067-4510-bf3c-737a16ca727a" width="75%" height="50%">
 
 ### Recommendations
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/158b7e84-1e48-4425-84aa-f2d1564a6a43" width="75" height="50%">
+<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/158b7e84-1e48-4425-84aa-f2d1564a6a43" width="75%" height="50%">
 
 ### Searching Packages
 <img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/b04b5508-616e-4e7b-b9dc-74b7ab572653" width="75%" height="50%">
